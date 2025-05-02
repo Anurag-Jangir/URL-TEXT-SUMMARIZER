@@ -1,0 +1,9 @@
+# Ignore node_modules everywhere
+**/node_modules
+
+# Ignore .env files (if you add API keys later)
+**/.env
+
+# Ignore OS + Editor junk files
+.DS_Store
+*.log
